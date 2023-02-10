@@ -1,0 +1,28 @@
+{
+    "Components": "Components",
+    "components": {
+        "ModalTitle": "Interface {name}",
+        "Protocol": "Protocol",
+        "Static": "Static",
+        "DHCP": "DHCP",
+        "InterfaceName": "Interface name",
+        "IPAddress": "IP Address",
+        "Netmask": "Netmask",
+        "Gateway": "Gateway",
+        "DNS": "DNS",
+        "InterfaceNameEmpty": "Interface name should not be empty",
+        "FailedInterfaceInfo": "Failed to get interface information",
+        "DeleteConfirm": "Are you sure you want to delete \"{name}\"?",
+        "DeleteSuccess": "Successfully deleted \"{name}\"",
+        "InvalidInputs": "Can not save. Check if all inputs are valid",
+        "NoChanges": "There are no changes to apply",
+        "InterfaceCreated": "Interface \"{name}\" created successfully",
+        "InterfaceEdited": "Interface \"{name}\" updated successfully",
+        "UnknownError": "Unknown error",
+        "Create": "Create",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "Save": "Save",
+        "Cancel": "Cancel"
+    }
+}

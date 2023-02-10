@@ -1,0 +1,8 @@
+{
+    "examples/components": {
+        "title": "Components",
+        "view": "vuci-app-components",
+        "files": ["/etc/config/vuci_components_task"],
+        "index": 10
+    }
+}
